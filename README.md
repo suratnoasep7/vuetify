@@ -1,4 +1,4 @@
-# cek-app
+# pack-app
 
 ## Project setup
 ```
